@@ -1,0 +1,16 @@
+<svg width='225' height='225' viewBox='0 0 225 225' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:figma='http://www.figma.com/figma/ns'>
+    <title>TC</title>
+    <desc>Created using Figma</desc>
+    <g id='Canvas' transform='translate(113 178)' figma:type='canvas'>
+        <g id='TC' figma:type='frame'>
+            <g id='Ellipse' figma:type='vector'>
+                <use xlink:href='#path0_fill' transform='translate(-113 -178)' fill='#4F4F4F'/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <path
+            id='path0_fill'
+            d='M 225 112.5C 225 123.617 223.388 134.357 220.384 144.5C 186.08 124.597 165.5 113 148 102.5C 153.858 92.7371 146.5 105 167 69C 169 66 168.7 62.8004 168.5 62C 168 60 167 57.5 164.5 55.5C 158.5 52 158.5 52 136.5 39.5C 134.794 38.7259 132.5 38.5 130.5 39C 129.081 39.3549 128.5 39 125.5 41.5C 109 69.5 125.5 41.5 109 69.5C 70.6042 136 70.6042 136 60.5 153.5C 57 158.5 56.5 164 60.5 168.5C 64.5178 171.057 80 179.906 90 185.5C 97 188.5 101.212 183.379 102 182C 104 178.5 119.5 151.5 123 145.5C 140 155.5 162.032 168.649 195.5 188.443C 174.932 210.911 145.361 225 112.5 225C 50.368 225 0 174.632 0 112.5C 0 50.368 50.368 0 112.5 0C 174.632 0 225 50.368 225 112.5Z'/>
+    </defs>
+</svg>
